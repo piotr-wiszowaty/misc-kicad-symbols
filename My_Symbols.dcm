@@ -1,0 +1,13 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP DFR0571
+D DC-DC Buck-Mode Power Module (8~28V to 5V 3A)
+K DC-DC buck converter
+$ENDCMP
+#
+$CMP LED_7seg_red_filter
+D One digit 7 segment red, common anode, 4 mA / 1.95 V
+K display LED 7-segment
+$ENDCMP
+#
+#End Doc Library
