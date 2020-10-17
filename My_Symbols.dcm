@@ -10,4 +10,9 @@ D One digit 7 segment red, common anode, 4 mA / 1.95 V
 K display LED 7-segment
 $ENDCMP
 #
+$CMP nRF905_module_1
+D nRF905 transceiver
+K nRF905 transceiver
+$ENDCMP
+#
 #End Doc Library
