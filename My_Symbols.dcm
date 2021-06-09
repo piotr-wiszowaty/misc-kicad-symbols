@@ -1,5 +1,11 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP Atari_XE_Cartridge_Connector
+D Atari XE Cartridge Connector
+K Atari XE Cartridge Connector
+F http://atariki.krap.pl/index.php/Gniazdo_cartridge%27a
+$ENDCMP
+#
 $CMP DFR0571
 D DC-DC Buck-Mode Power Module (8~28V to 5V 3A)
 K DC-DC buck converter
