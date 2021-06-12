@@ -22,6 +22,12 @@ D One digit 7 segment red, common anode, 4 mA / 1.95 V
 K display LED 7-segment
 $ENDCMP
 #
+$CMP XC9572XL-PC44
+D Xilinx CPLD, Obsolete
+K CPLD
+F xilinx/xc9572.pdf
+$ENDCMP
+#
 $CMP nRF905_module_1
 D nRF905 transceiver
 K nRF905 transceiver
