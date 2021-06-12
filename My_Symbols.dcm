@@ -1,5 +1,11 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP AT29C512
+D Flash memory, 512 kbit
+K flash memory
+F https://media.digikey.com/pdf/Data%20Sheets/Atmel%20PDFs/AT29C512%20Rev02.pdf
+$ENDCMP
+#
 $CMP Atari_XE_Cartridge_Connector
 D Atari XE Cartridge Connector
 K Atari XE Cartridge Connector
