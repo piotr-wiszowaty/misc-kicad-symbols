@@ -22,6 +22,12 @@ D One digit 7 segment red, common anode, 4 mA / 1.95 V
 K display LED 7-segment
 $ENDCMP
 #
+$CMP SST39VF020
+D Silicon Storage Technology (SSF) 256k x 8 Flash ROM
+K 256k flash rom
+F https://ww1.microchip.com/downloads/en/DeviceDoc/20005023B.pdf
+$ENDCMP
+#
 $CMP XC9572XL-PC44
 D Xilinx CPLD, Obsolete
 K CPLD
