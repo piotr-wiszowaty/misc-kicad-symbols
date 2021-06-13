@@ -28,6 +28,12 @@ K 256k flash rom
 F https://ww1.microchip.com/downloads/en/DeviceDoc/20005023B.pdf
 $ENDCMP
 #
+$CMP SST39VF040
+D Silicon Storage Technology (SSF) 512k x 8 Flash ROM
+K 512k flash rom
+F https://ww1.microchip.com/downloads/en/DeviceDoc/20005023B.pdf
+$ENDCMP
+#
 $CMP XC9572XL-PC44
 D Xilinx CPLD, Obsolete
 K CPLD
