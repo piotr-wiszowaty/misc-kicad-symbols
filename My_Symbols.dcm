@@ -22,6 +22,12 @@ D One digit 7 segment red, common anode, 4 mA / 1.95 V
 K display LED 7-segment
 $ENDCMP
 #
+$CMP MINI-M0
+D STM32 module
+K STM32 module
+F https://download.mikroe.com/documents/starter-boards/mini/stm32/f0/mini-m0-stm32-manual-v100.pdf
+$ENDCMP
+#
 $CMP SST39VF020
 D Silicon Storage Technology (SSF) 256k x 8 Flash ROM
 K 256k flash rom
@@ -40,7 +46,7 @@ K CPLD
 F xilinx/xc9572.pdf
 $ENDCMP
 #
-$CMP eXploreM0
+$CMP eXploreM0_copy
 D STM32 module
 K STM32 module
 F https://modulogy.com/media/en/documents/data-sheets/Instrukcja%20MOD-40.pdf
