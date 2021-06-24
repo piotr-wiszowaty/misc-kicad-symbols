@@ -52,12 +52,6 @@ K STM32 module
 F https://modulogy.com/media/en/documents/data-sheets/Instrukcja%20MOD-40.pdf
 $ENDCMP
 #
-$CMP eXploreM0_copy
-D STM32 module
-K STM32 module
-F https://modulogy.com/media/en/documents/data-sheets/Instrukcja%20MOD-40.pdf
-$ENDCMP
-#
 $CMP nRF905_module_1
 D nRF905 transceiver
 K nRF905 transceiver
