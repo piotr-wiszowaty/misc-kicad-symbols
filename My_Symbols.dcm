@@ -46,6 +46,12 @@ K CPLD
 F xilinx/xc9572.pdf
 $ENDCMP
 #
+$CMP eXploreM0
+D STM32 module
+K STM32 module
+F https://modulogy.com/media/en/documents/data-sheets/Instrukcja%20MOD-40.pdf
+$ENDCMP
+#
 $CMP eXploreM0_copy
 D STM32 module
 K STM32 module
