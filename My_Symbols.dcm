@@ -40,6 +40,12 @@ K 512k flash rom
 F https://ww1.microchip.com/downloads/en/DeviceDoc/20005023B.pdf
 $ENDCMP
 #
+$CMP UM232R
+D USB - Serial UART module
+K USB UART module
+F http://www.ftdichip.com/Support/Documents/DataSheets/Modules/DS_UM232R.pdf
+$ENDCMP
+#
 $CMP XC9572XL-PC44
 D Xilinx CPLD, Obsolete
 K CPLD
