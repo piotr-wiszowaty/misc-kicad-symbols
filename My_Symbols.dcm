@@ -28,6 +28,30 @@ K STM32 module
 F https://download.mikroe.com/documents/starter-boards/mini/stm32/f0/mini-m0-stm32-manual-v100.pdf
 $ENDCMP
 #
+$CMP SP691A
+D ow Power Microprocessor Supervisory with Battery Switch-Over
+K supervisor battery
+F https://www.maxlinear.com/ds/sp691_800alm.pdf
+$ENDCMP
+#
+$CMP SP693A
+D ow Power Microprocessor Supervisory with Battery Switch-Over
+K supervisor battery
+F https://www.maxlinear.com/ds/sp691_800alm.pdf
+$ENDCMP
+#
+$CMP SP800L
+D ow Power Microprocessor Supervisory with Battery Switch-Over
+K supervisor battery
+F https://www.maxlinear.com/ds/sp691_800alm.pdf
+$ENDCMP
+#
+$CMP SP800M
+D ow Power Microprocessor Supervisory with Battery Switch-Over
+K supervisor battery
+F https://www.maxlinear.com/ds/sp691_800alm.pdf
+$ENDCMP
+#
 $CMP SST39VF020
 D Silicon Storage Technology (SSF) 256k x 8 Flash ROM
 K 256k flash rom
