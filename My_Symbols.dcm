@@ -12,6 +12,12 @@ K Atari XE Cartridge Connector
 F http://atariki.krap.pl/index.php/Gniazdo_cartridge%27a
 $ENDCMP
 #
+$CMP Crystal_Small_14_23
+D Four pin crystal, small symbol, https://pdf1.alldatasheet.com/datasheet-pdf/view/161036/EPSON/MC-405.html
+K quartz ceramic resonator oscillator
+F ~
+$ENDCMP
+#
 $CMP DFR0571
 D DC-DC Buck-Mode Power Module (8~28V to 5V 3A)
 K DC-DC buck converter
