@@ -40,6 +40,12 @@ K PIC24
 F https://ww1.microchip.com/downloads/en/DeviceDoc/39881e.pdf
 $ENDCMP
 #
+$CMP PIC24FJxxGB002-ISS
+D PIC24 MCU, 32/64 kB flash, 8 kB SRAM, 32 MHz, 2.0-3.6 V
+K PIC24
+F https://ww1.microchip.com/downloads/en/DeviceDoc/39940d.pdf
+$ENDCMP
+#
 $CMP PIC24FJxxGB004-IPT
 D PIC24 MCU, 32/64 kB flash, 8 kB SRAM, 32 MHz, 2.0-3.6 V
 K PIC24
