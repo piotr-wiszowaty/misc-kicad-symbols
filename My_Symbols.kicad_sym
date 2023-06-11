@@ -2394,7 +2394,7 @@
     (property "Value" "Waveshare_1.14inch_LCD_Display_Module" (at 1.27 -11.43 0)
       (effects (font (size 1.27 1.27)) (justify left top))
     )
-    (property "Footprint" "Display:Waveshare_1.14inch_LCD_Display_Module" (at 0 0 0)
+    (property "Footprint" "Miscellaneous:Waveshare_1.14inch_LCD_Display_Module" (at 0 0 0)
       (effects (font (size 1.27 1.27) italic) hide)
     )
     (property "Datasheet" "https://www.waveshare.com/1.14inch-lcd-module.htm" (at 0 0 0)
