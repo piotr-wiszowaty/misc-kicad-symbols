@@ -2397,7 +2397,7 @@
     (property "Footprint" "Miscellaneous:Waveshare_1.14inch_LCD_Breakout" (at 0 0 0)
       (effects (font (size 1.27 1.27) italic) hide)
     )
-    (property "Datasheet" "" (at 0 0 0)
+    (property "Datasheet" "https://github.com/sbcshop/1.14-LCD-Breakout-Hardware" (at 0 0 0)
       (effects (font (size 1.27 1.27) italic) hide)
     )
     (property "ki_keywords" "LCD" (at 0 0 0)
